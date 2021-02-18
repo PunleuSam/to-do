@@ -6,3 +6,9 @@ IT-Engineering
 
 Sam Punleu Gen.5th
 project for Year2 Semester2
+--------------------------------------------------
+how to install and run the project
+
+download or clone 
+npm install
+npm start
