@@ -1,5 +1,5 @@
 # to-do
-I do for re-do project practicum for techer SamBo Cheayea.
+I do for re-do project practicum for teacher SamBo Cheayea.
 Royal University of Phnom Penh
 Faculty of Engineering
 IT-Engineering
